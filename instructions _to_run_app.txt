@@ -1,0 +1,7 @@
+To Run Code
+python app.py
+
+install modules using pip
+pip install sklearn
+pip install pandas
+pip install flask
